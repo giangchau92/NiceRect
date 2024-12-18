@@ -1,0 +1,16 @@
+{
+    "name": "NiceRectUI.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e79fcb4704275441089d96049ca410c8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

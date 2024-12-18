@@ -1,0 +1,11 @@
+{
+    "name": "com.nc981.nicerect",
+    "displayName": "Nice Rect",
+    "version": "1.0.0",
+    "unity": "2019.2",
+   	"author": {
+     	"name": "Chau Nguyen",
+     	"email": "giangchau92@gmail.com"
+    },
+	"type": "library"
+}
