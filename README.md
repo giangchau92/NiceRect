@@ -1,4 +1,4 @@
-# Unity Nice Rect 
+# Nice Rect for UGUI 
 
 ## 📝 Description
 Unity Nice Rect is a simple UIImage extension that allows you to create a nice looking rectangle in the Unity.
@@ -45,3 +45,52 @@ Unity Nice Rect is a simple UIImage extension that allows you to create a nice l
 3. Adjust the `NiceRect` parameters in the inspector.  
 
 4. Enjoy!
+
+### Component NiceRect
+
+**Corner Section**
+
+* Top Left: offset from the top left corner of the rect.
+* Top Right: offset from the top right corner of the rect.
+* Bottom Left: offset from the bottom left corner of the rect.
+* Bottom Right: offset from the bottom right corner of the rect.
+
+**Fill Section**
+
+* FillType: Fill type of the rect
+  * Solid Color: Fill the rect with a solid color
+  * Gradient: Fill the rect with a gradient color
+* Color: color of the rect
+* Gradient Type: Gradient type
+  * Linear: Linear gradient
+  * Radial: Radial gradient
+* Gradient: gradient color
+* Gradient Scale: stretch the gradient color
+* Gradient Rotation: rotation of the gradient
+
+**Stroke Section**
+
+* Stroke Type: Stroke type of the rect
+  * No Stroke: no stroke rect
+  * Inner Stroke: stroke inside the rect
+* Stroke Width: width of the stroke
+* Fill Type: fill type of the stroke
+  * Solid Color: Fill the stroke with a solid color
+  * Gradient: Fill the stroke with a gradient color
+* Gradient Type: Gradient type of the stroke
+  * Linear: Linear gradient
+  * Radial: Radial gradient
+* Gradient: gradient color of the stroke
+* Gradient Scale: stretch the gradient color of the stroke
+* Gradient Rotation: rotation of the gradient color of the stroke
+
+**Gray Scale**
+* Use Gray Scale: convert the rect to gray scale
+* Gray Scale Factor: strength of the gray scale
+
+## License
+
+* MIT
+
+## Author
+* [Giang Chau](https://github.com/giangchau92)
