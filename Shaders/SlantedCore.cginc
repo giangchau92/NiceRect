@@ -4,7 +4,7 @@
 #include "UnityCG.cginc"
 #include "UnityUI.cginc"
 #ifdef SLANT_SOFTMASK
-#include "Assets/UI Soft Mask/Shaders/SoftMask.cginc"
+#include "Packages/com.coffee.softmask-for-ugui/Shaders/SoftMask.cginc"
 #endif
 
 #define FILL_TYPE_SOLID 0

@@ -12,7 +12,7 @@ Unity Nice Rect is a simple UIImage extension that allows you to create a nice l
 - Rectangle with a border
 - Solid and gradient filled rectangle
 - Solid and gradient stroke border
-- Support Unity Mask and UI Soft Mask
+- Support Unity Mask and [UI Soft Mask](https://github.com/mob-sakai/SoftMaskForUGUI)
 - Support built-in Anti-aliasing
 
 ## 📦 Installation
