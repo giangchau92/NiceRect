@@ -3,6 +3,9 @@
 ## 📝 Description
 Unity Nice Rect is a simple UIImage extension that allows you to create a nice looking rectangle in the Unity.
 
+<img width="779" alt="image" src="https://github.com/user-attachments/assets/c5bb2c5e-0d8f-4c6f-83ee-077ab4e5d9b5" />
+
+
 ## 📌 Key Features
 - Slanted rectangle
 - Rounded corner rectangle
@@ -10,7 +13,7 @@ Unity Nice Rect is a simple UIImage extension that allows you to create a nice l
 - Solid and gradient filled rectangle
 - Solid and gradient stroke border
 - Support Unity Mask and UI Soft Mask
-- Support Anti-aliasing
+- Support built-in Anti-aliasing
 
 ## 📦 Installation
 
@@ -47,6 +50,7 @@ Unity Nice Rect is a simple UIImage extension that allows you to create a nice l
 4. Enjoy!
 
 ### Component NiceRect
+<img width="525" alt="image" src="https://github.com/user-attachments/assets/5939c415-d1f4-43a1-8416-663e6ab4cdcd" />
 
 **Corner Section**
 
