@@ -22,7 +22,7 @@ Unity Nice Rect is a simple UIImage extension that allows you to create a nice l
 - Click `Window > Package Manager` to open Package Manager UI.
 - Click `+ > Add package from git URL...` and input the repository URL:
 `https://github.com/giangchau92/NiceRect.git`
-- 
+
 ### Install via UPM (Manually)
 
 - Open the `Packages/manifest.json` file in your project. Then add this package somewhere in the `dependencies` block:

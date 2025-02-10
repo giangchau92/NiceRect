@@ -99,7 +99,6 @@ Shader "Custom/SlantedUIShader"
         Pass
         {
             CGPROGRAM
-            #pragma exclude_renderers d3d11 gles
             #include "SlantedCore.cginc"
 
             #pragma vertex vert
